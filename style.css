@@ -29,12 +29,10 @@ p{
 b{
     color: #e2e8f0;
 }
-
 a {
     text-decoration: none; /* Supprime le soulignement par défaut */
     color: inherit; /* Utilise la couleur du texte par défaut de l'élément parent */
 }
-
 
 .intro{
     border-radius: 10px;
