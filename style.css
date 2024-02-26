@@ -703,6 +703,12 @@ a {
     }
 }
 
+@media  screen and (max-width: 600px) {
+    .partie-droite{
+        width: 85%;
+    }
+}
+
 
 @media  screen and (max-width: 400px) {
     .projets img{
